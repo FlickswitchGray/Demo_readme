@@ -1,3 +1,6 @@
+<!-- here we add project shields -->
+[![Contributors][contributors-shield]][contributors-url]
+
 <div align="center">
   
   <h2 align = "center">  Demo Readme </h3>
@@ -5,8 +8,9 @@
   <p> A readme preamble </p>
 
 </div>
-<!-- here we add project shields -->
-[![Contributors][contributors-shield]][contributors-url]
+
+
+
 In a world where encounters are by chance 
 🧱 🦫 🪛
 
