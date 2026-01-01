@@ -1,17 +1,13 @@
-[![Contributors](https://img.shields.io/github/contributors/FlickswitchGray/Demo_readme)](https://github.com/FlickswitchGray/Demo_readme/graphs/contributors)
-
-
-
-<div style="text-align: center;">
   <!--
   *** Here we add project shields
   *** Here's some markdown guidance: https://www.markdownguide.org/basic-syntax/#reference-style-links
   -->
-  <a href="https://github.com/FlickswitchGray/Demo_readme/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/FlickswitchGray/Demo_readme" alt="Contributors" />
-  </a>
+  [![Contributors](https://img.shields.io/github/contributors/FlickswitchGray/Demo_readme)](https://github.com/FlickswitchGray/Demo_readme/graphs/contributors)
 
-  <h2>Demo Readme</h2>
+
+
+<div align= "center">
+  <h2> Demo Readme</h2>
   <p>A readme preamble</p>
 </div>
 
