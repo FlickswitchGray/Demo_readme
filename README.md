@@ -3,6 +3,8 @@
 In a world where encounters are by chance 
 🧱 🦫 🪛
 
+`it matters that you're the perfect stranger`
+
 >[!NOTE]
 > There's hell in hello, but more in goodbye
 >
