@@ -2,8 +2,8 @@
 *** here we add project shields 
 *** here's some markdown guidance https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][https://img.shields.io/github/contributors/FlickswitchGray/Demo_readme)][https://github.com/FlickswitchGray/Demo_readme/graphs/contributors]
-
+[![Contributors](https://img.shields.io/github/contributors/FlickswitchGray/Demo_readme)][https://github.com/FlickswitchGray/Demo_readme/graphs/contributors]
+?style=flat-square&color=blue
 <div align="center">
   
   <h2 align = "center">  Demo Readme </h3>
