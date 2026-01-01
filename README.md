@@ -4,7 +4,7 @@
   *** Here's some markdown guidance: https://www.markdownguide.org/basic-syntax/#reference-style-links
   -->
   <p>
-    [![Contributors](https://img.shields.io/github/contributors/FlickswitchGray/Demo_readme?style=flat-square&color=blue)(https://github.com/FlickswitchGray/Demo_readme/graphs/contributors)
+    [![Contributors](https://img.shields.io/github/contributors/FlickswitchGray/Demo_readme?style=flat-square&color=blue)](https://github.com/FlickswitchGray/Demo_readme/graphs/contributors)
   </p>
 
   <h2 align="center">Demo Readme</h2>
