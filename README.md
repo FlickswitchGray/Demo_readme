@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h3 align = "center"> # Demo readme </h3>
+  <h2 align = "center">  Demo Readme </h3>
 
   <p> A readme preamble </p>
 
