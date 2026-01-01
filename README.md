@@ -1,15 +1,15 @@
-
 <div align="center">
   <!-- 
-*** here we add project shields 
-*** here's some markdown guidance https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors](https://img.shields.io/github/contributors/FlickswitchGray/Demo_readme?style=flat-square&color=blue)](https://github.com/FlickswitchGray/Demo_readme/graphs/contributors)
+  *** Here we add project shields 
+  *** Here's some markdown guidance: https://www.markdownguide.org/basic-syntax/#reference-style-links
+  -->
+  <p>
+    [![Contributors](https://img.shields.io/github/contributors/FlickswitchGray/Demo_readme?style=flat-square&color=blue)](https://github.com/FlickswitchGray/Demo_readme/graphs/contributors)
+  </p>
 
-  <h2 align = "center">  Demo Readme </h3>
+  <h2 align="center">Demo Readme</h2>
 
-  <p> A readme preamble </p>
-
+  <p>A readme preamble</p>
 </div>
 
 <!-- TABLE OF CONTENTS -->
